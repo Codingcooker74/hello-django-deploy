@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "codingccooker74/hello-django:developer",
+    "Name": "codingccooker74/hello-django-deploy:latest",
     "Update": "true"
   },
   "Ports": [
